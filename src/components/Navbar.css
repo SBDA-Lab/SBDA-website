@@ -11,7 +11,7 @@
   justify-content: space-between;
 
 
-  height: 100px;
+  height: 187px;
   background-color: rgba(0, 0, 0, 0.7);
   align-items: center;
 }
@@ -39,9 +39,9 @@
 
 .nav-logo-img {
   display: block;
-  width: 181px;
+  width: 181x;
   height: 181px;
-  object-fit: contain;  
+  object-fit: contain;
 }
 
 .nav-logo-text {
