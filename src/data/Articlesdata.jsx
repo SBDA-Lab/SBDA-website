@@ -1,4 +1,37 @@
 const Articlesdata = {
+  2026: [
+    {
+      heading: `Sengupta, A., Singh, V., Syed, M., et al. (2026). Vitiligo Information Resource database v3. npj Systems Biology and Applications.`,
+      link: "https://doi.org/10.1038/s41540-026-00713-3",
+    },
+  ],
+
+  2025: [
+    {
+      heading: `Sengupta, A., Majumdar, G., Choudhury, A., Gupta, P., Modi, D., & Narad, P. (2025). Artificial intelligence-enhanced in-vitro fertilization outcome prediction for the Indian subpopulation: integrating pre-treatment parameters and Bayesian-optimized ensemble techniques. International Journal of Community Medicine and Public Health, 12(5), 2272–2279.`,
+      link: "https://doi.org/10.18203/2394-6040.ijcmph20251387",
+    },
+    {
+      heading: `Sengupta, A., Kulshrestha, S., Redhu, R., Chaurasia, A., Gupta, P., Syed, M., Vijayaraghavan, P., Gupta, S., & Narad, P. (2025). Systems biology approach reveals succinyl-CoA and hydroxycitrate as potential therapeutics for the treatment of vulvovaginal candidiasis. Next Research, 2, 100190.`,
+      link: "https://doi.org/10.1016/j.nexres.2025.100190",
+    },
+    {
+      heading: `Sen, P., Gupta, L., Chauhan, A., Goswami, L., Bhattacharya, A. K., Sengupta, A., & Vijayaraghavan, P. (2025). A comprehensive in vitro and in silico assessment of eugenol glycoconjugates against azole and amphotericin B resistant Rhizopus spp. Molecular Biology Reports, 52, 589.`,
+      link: "https://doi.org/10.1007/s11033-025-10673-2",
+    },
+    {
+      heading: `Sharma, S., Subrahmanyam, Y. V., Gupta, P., et al. (2025). Precision integrated identification of predictive first-trimester metabolomics signatures for early detection of gestational diabetes mellitus. Cardiovascular Diabetology, 24(1), 434.`,
+      link: "https://doi.org/10.1186/s12933-025-02978-0",
+    },
+    {
+      heading: `Saroha, A., Shahid, D., Aravind, J., Murmu, S., Kaur, V., Rajkumar, S., Sengupta, A., & Wankhede, D. P. (2025). Characterization of trehalose-6-phosphate synthase gene family in linseed and its potential implications in flowering time regulation. BMC Plant Biology, 25, 1581.`,
+      link: "https://doi.org/10.1186/s12870-025-07559-7",
+    },
+    {
+      heading: `Roy, K., Syed, M., Narad, P., & Sengupta, A. (2025). Genetic and epigenetic drivers of neurodegenerative disorders. Progress in Brain Research, 297, 53–130.`,
+      link: "https://doi.org/10.1016/bs.pbr.2025.08.002",
+    },
+  ],
   2024:[
     {
       heading: `Jain, N., Gupta, P., Sengupta, A., Chaurasia, A., & Narad, P. (2024). Deciphering Stem Cell Pluripotency Using a Machine Learning Clustering Approach. In Lecture notes in networks and systems (pp. 375–388).`,

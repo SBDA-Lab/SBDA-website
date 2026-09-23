@@ -68,6 +68,22 @@ const products = () => {
               vitiligo pathogenesis using co-expression network-based approach.
             </p>
           </div>
+                    <div className="tools-list tl-animate">
+            <h2>
+              <a href="https://virdb.sbdaresearch.in/">
+                VIRdb 3.0
+              </a>
+            </h2>
+
+            <p>
+              An integrative database for vitiligo combining transcriptomic datasets,
+              differentially expressed genes, protein–protein interaction networks,
+              natural compounds, and FDA-approved drugs. VIRdb 3.0 supports pathway
+              enrichment, molecular docking, z-score normalization, multi-gene pathway
+              queries, gene–gene interaction networks, and comparisons with related
+              autoimmune disorders.
+            </p>
+          </div>
           <div className="tools-list tl-animate">
             <h2>
               <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357568/">

@@ -5,7 +5,8 @@ import Payal from "../assets/Payal.jpg";
 import Akshay from "../assets/Akshay.jpeg";
 import Sudeepti from "../assets/Sudeepti.jpg";
 import Harshita from "../assets/Harshita pandey.jpg";
-
+import Bhawana from "../assets/Bhawana.jpeg";
+import Amish from "../assets/Amish.png";
 const Teamsdata = [
   {
     image: Ankit,
@@ -75,6 +76,22 @@ const Teamsdata = [
      the predictability of In Vitro Fertilization (IVF) outcomes. By integrating clinical, 
      demographic, and biological data, my goal is to develop robust predictive models that
       assist in optimizing personalized treatment plans for patients.`,
+  },
+    {
+    image: Bhawana,
+    text: "Bhawana Sharma",
+    paragraph: `ICMR Project Fellow
+(June 2026 onwards)`,
+    heading: "Research Interests:",
+    paragraph2: `My research interests lie at the intersection of bioinformatics, artificial intelligence, and human health. I am particularly interested in mental health research, as well as computational approaches to women’s health, using machine learning and multi-omics, with a growing interest in neuroscience.`,
+  },
+    {
+    image: Amish,
+    text: "Amish Mishra",
+    paragraph: `ICMR Project Fellow
+(June 2026 onwards)`,
+    heading: "Research Interests:",
+    paragraph2: `I’m exploring biology through AI, Multi-Omics & Molecular Simulation, uncovering clues to mental health. Turning these insights into biomarkers, better predictions, and greater well-being.`,
   },
 ];
 
