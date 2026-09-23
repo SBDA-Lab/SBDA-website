@@ -2,8 +2,8 @@ import React from "react";
 import Navbar from "../Navbar";
 import "./Teams.css";
 import Teamsdata from "../../data/Teamsdata";
-import abhishek_sir_pic from "../../assets/Abhishek sir pic.jpg";
-import priyanka_mam_pic from "../../assets/priyanka mam pic.jpg";
+import abhishek_sir_pic from "../../assets/Abhishek sir pic.jpeg";
+import priyanka_mam_pic from "../../assets/priyanka mam pic.jpeg";
 import Cardslider from "../Cardslider";
 import Footer from "../Footer";
 const Teams = () => {

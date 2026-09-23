@@ -23,7 +23,10 @@ understanding of cancer. A variety of methods can be used to predict how differe
 genes, their functions and how these altered genes/proteins interact with other biologically active compounds, leading to the formation and progression of malignant
 or ca ncerous tu mours.`,
     },
-    
+    {
+    heading: "Microbiome–Metabolome Axis Study",
+    text: `We investigate how microbial communities and host metabolites interact in health and disease by integrating metagenomics, metabolomics, network analysis, and genome-scale metabolic modelling. Our current work includes gut–brain and reproductive-health systems, with applications to conditions such as gestational diabetes mellitus (GDM). Dr. Abhishek Sengupta also serves as Co-Principal Investigator in an ICMR-funded collaboration with Maulana Azad Dental College, New Delhi, investigating salivary microbiome and metabolomic signatures for the non-invasive early detection, prognosis, and risk stratification of oral potentially malignant disorders and oral cancer (ICMR 2026). This work aims to identify disease-associated microbial and metabolic signatures that may support biomarker discovery and improved risk assessment.`,
+    },
 ];
 
 export default Project_data2

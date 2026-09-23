@@ -2,6 +2,8 @@ import "./Project.css";
 import { useEffect } from "react";
 import Project_data1 from "../../data/Project_data1";
 import Project_data2 from "../../data/Project_data2";
+import Project_data3 from "../../data/Project_data3";
+import Project_data4 from "../../data/Project_data4";
 import Dropdown_container from "./Dropdown_container";
 import Navbar from "../Navbar";
 import Footer from "../Footer";
@@ -102,25 +104,18 @@ const Projects = () => {
             Vitiligo is a chronic, asymptomatic disorder that causes a loss of
             patches of skin pigment and colour.
           </p>
-          <p className="project3-para">
-            Our Vitiligo Information Resource 1.0 (VIRdb 1.0) provides a
-            complete platform dedicated to vitiligo, integrating both the
-            drug-target and systems approach, along with consolidated protein
-            and gene-level information, and potential therapeutic leads. VIRdb
-            1.0 also showcases a genetic interaction network of the many
-            expressed genes in Lesional, Peri-Lesional and Non-Lesional Vitiligo
-            compared to healthy controls, in order to completely capture the
-            genetic complexity of Vitiligo.
-          </p>
-          <p className="project3-para">
-            VIRdb 2.0, a comprehensive set of differentially co-expressed genes
-            involved in crosstalk events between Vitiligo and associated
-            autoimmune disorders (Multiple Sclerosis, Psoriasis and Rheumatoid
-            Arthritis) is presented and incorporated with Vitiligo-related
-            multi-omics datasets (connected to SwissProt, KEGG, GeneCards, NPASS
-            and STRING). We anticipate that researchers and clinicians working
-            on vitiligo drug development will benefit from VIRdb 2.0.
-          </p>
+          <div className="ch-animate">
+          <Dropdown_container data={Project_data4}></Dropdown_container>
+        </div>
+        </div>
+        <div className="project1">
+          <h2 className="pr-head-no">04</h2>
+          <h2 className="project1-heading">
+            Mental Health and Predictive Modelling
+          </h2>
+          <div className="ch-animate">
+            <Dropdown_container data={Project_data3}></Dropdown_container>
+          </div>
         </div>
         <div className="checkout">
           <h2 className="ch-animate" >That's not it.</h2>

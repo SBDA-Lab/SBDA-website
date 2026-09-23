@@ -7,6 +7,7 @@ import nbpgrLogo from "../../assets/NBPGR logo.png";
 import nimhansLogo from "../../assets/Nimhans.png";
 import jnuLogo from "../../assets/JNU.jpg";
 import alltech from "../../assets/alltech biotech.jpg"
+import uccLogo from "../../assets/ucc-logo.png";
 
 const Data = [
   {
@@ -40,7 +41,11 @@ const Data = [
   {
     image: alltech,
     text: "Alltech Biotech"
-  }
+  },
+  {
+  image: uccLogo,
+  text: "University College Cork, Ireland"
+  },
 ];
 
 export default Data;
