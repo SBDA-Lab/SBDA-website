@@ -1,5 +1,5 @@
 ''
-import icmrLogo from "../../assets/icmr logo.jpg";
+import icmrLogo from "../../assets/icmr logo.png";
 import nextgenlifeLogo from "../../assets/nextgenlife logo.jpg";
 import sghLogo from "../../assets/sgh logo.png";
 import manipalLogo from "../../assets/manipal logo.png";
@@ -8,11 +8,11 @@ import nimhansLogo from "../../assets/Nimhans.png";
 import jnuLogo from "../../assets/JNU.jpg";
 import alltech from "../../assets/alltech biotech.jpg"
 import uccLogo from "../../assets/ucc-logo.png";
-
+import helmholtz from "../../assets/logo_helmholtz.png";
 const Data = [
   {
     image: icmrLogo,
-    text: "Indian Council of Medical Research"
+    text: "ICMR National Institute for Research on Women’s Health"
   },
   {
     image: nextgenlifeLogo,
@@ -46,6 +46,10 @@ const Data = [
   image: uccLogo,
   text: "University College Cork, Ireland"
   },
+  {
+  image: helmholtz,
+  text : "Helmholtz Munich"
+  }
 ];
 
 export default Data;

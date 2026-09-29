@@ -17,7 +17,7 @@ body {
       rgba(4, 2, 23, 1) 90%
     ),
     url("../../assets/about-img.jpg");
-  background-size: fill;
+  background-size: 100% auto;
   background-repeat: no-repeat;
   
 }
