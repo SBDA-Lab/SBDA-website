@@ -1,7 +1,6 @@
 import React from "react";
 import "./Footer.css";
 import logo1 from "../assets/ln logo.png";
-import logo2 from "../assets/icon.png";
 
 
 const Footer = () => {
@@ -9,8 +8,6 @@ const Footer = () => {
     <footer className="footer">
       <div className="logo1">
         <a href="https://www.linkedin.com/in/sbda-research-lab-776504220/"><img className="linkedin-icon icon" src={logo1} alt="LinkedIn Logo" /></a>
-        <a href="https://x.com/SBDAResearchLab"><img className="x-icon icon" src={logo2} alt="LinkedIn Logo" /></a>
-        
       </div>
 
       <p>
@@ -22,8 +19,7 @@ const Footer = () => {
         disease development and progression in a unique and unprecedented way.
         Contact us for training opportunities and other services.
       </p>
-      <p className="center">© 2024 SBDA Research Lab. All rights reserved.</p>
-      <p className="credit">Made with love by Rahul Bachheti</p>
+      <p className="center">© 2026 SBDA Research Lab. All rights reserved.</p>
 
     </footer>
   );

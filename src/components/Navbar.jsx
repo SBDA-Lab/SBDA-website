@@ -17,7 +17,9 @@ const Navbar = () => {
         
 <div className="nav-logo-text">
         <div className="nav-logo">
+          <Link to="/" aria-label="Go to homepage">
           <img src={logo5} alt="SBDA Logo" className="nav-logo-img" />
+          </Link>
         </div>
         </div>
 
@@ -27,10 +29,10 @@ const Navbar = () => {
               <Link to="/">Home</Link>
             </li>
             <li className="nav-link">
-              <Link to="/services">Services</Link>
+              <Link to="/about">About</Link>
             </li>
             <li className="nav-link">
-              <Link to="/about">About</Link>
+              <Link to="/services">Services</Link>
             </li>
             <li className="nav-link">
               <Link to="/teams">Team</Link>

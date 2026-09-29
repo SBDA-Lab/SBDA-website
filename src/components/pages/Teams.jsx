@@ -36,127 +36,111 @@ const Teams = () => {
               <h2 className="tl-name">Dr Abhishek Sengupta</h2>
               <p className="tl-desg">Founder and Principle Investigator</p>
               <div className="tl-sm-profile">
-                <a href="https://twitter.com/Sengupta_PhD">
-                  <div className="tl-twitter"></div>
-                </a>
                 <a href="https://www.linkedin.com/in/drabhisheksengupta83/">
                   <div className="tl-linkedin"></div>
                 </a>
               </div>
             </div>
-            <div className="tl-about">
-              <p>
-                I am a Bioinformatician and a Systems Biologist with a diverse
-                background spanning Biotechnology, Healthcare Data and
-                Pharmaceutical Market Data. The common thread that ties these
-                areas together is my passion for Data, High-throughput
-                Technology and Mathematical Modeling.
-              </p>
-              <p
-                style={{
-                  margin: "10px",
-                  fontSize: "1.1rem",
-                  fontWeight: "bold",
-                }}
-              >
-                My primary areas of research (but not limited to) are:
-              </p>
-              <ul></ul>
-              <li className="bullet-li">Reproductive Health </li>
-              <li className="bullet-li">
-                Microbes, Microbiome and Human Health
-              </li>
-              <li className="bullet-li">Mental Health and Well Being</li>
-              <li className="bullet-li">
-                Vitiligo Pathogenesis and Therapeutics
-              </li>
-              <p style={{ textAlign: "justify", margin: "1.5rem" }}>
-                My research involves biological network construction and
-                integration, logical modelling, kinetic and constraint-based
-                modelling, multi-omics integration through Machine Learning and
-                Graph Theory (Network) approaches, and data-driven hypothesis
-                generation. We primarily focus on multi-omics data sets to
-                better understand and treat human disease using computational
-                methods. My research team also works on computational methods to
-                study metabolic, signalling and gene regulatory disease
-                networks, understand disease progression, molecular mechanisms
-                and determine new drug targets and propose drug repurposing
-                strategies. My lab's research goal is broadly focused on
-                developing and applying predictive computational models,
-                biological networks and associated web tools/databases for
-                predicting and analysing the behaviours of complex physiological
-                systems ranging over multiple scales of organisation from the
-                molecular level to the tissue/organ/organism/population level.
-              </p>
+<div className="tl-about" style={{textAlign: "justify"}}>
+        <p>
+          I am an <strong>Associate Professor and Research Scientist in
+          Bioinformatics and Systems Biology</strong> at Amity University, Noida,
+          with over 20 years of experience in higher education, research
+          supervision, and academic leadership across undergraduate, postgraduate,
+          and doctoral levels.
+        </p>
 
-              <p
-                style={{
-                  margin: "10px",
-                  fontSize: "1.1rem",
-                  fontWeight: "bold",
-                }}
-              >
-                My Lab's Research Activities focus on these:
-              </p>
-              <div>
-                <li className="numerical-li">
-                  Clinical data analytics and predictive modelling
-                </li>
-                <li className="numerical-li">
-                  Biological network inference, community and topology analysis
-                  and visualisation
-                </li>
-                <li className="numerical-li">
-                  Identification of vital biological functions and pathways
-                </li>
-                <li className="numerical-li">
-                  Identification of potential biomarkers and targetable
-                  genes/proteins/metabolites through modelling and biological
-                  network analysis
-                </li>
-                <li className="numerical-li">
-                  Application of key machine learning methods for multi-omics
-                  analysis
-                </li>
-                <li className="numerical-li">
-                  Condition-specific and personalized modelling through
-                  Genome-scale Metabolic models based on the/ integration of
-                  transcriptomic, proteomic and metabolomic data
-                </li>
-                <li className="numerical-li">
-                  Interactive and static web implementation
-                </li>
-                <li className="numerical-li">
-                  Comprehensive clinical and biological database designing
-                </li>
-                <li className="numerical-li">
-                  Network pharmacology-based drug repurposing
-                </li>
-                <li className="numerical-li">
-                  Molecular modelling, docking and MD simulation studies
-                </li>
-              </div>
-              <p style={{ margin: "1rem" }}>
-                Please reach out to my lab for research collaboration and
-                high-throughput project design and execution. At my lab, we
-                believe in delivering meaningful models and data analysis.
-              </p>
-              <p style={{ margin: "1rem" }}>
-                {" "}
-                Outside of my professional work, you can see me spending time
-                with my family/friends, networking and reading books (mostly
-                science fiction, and health tech). Apart from this, I am fond of
-                art and painting.
-              </p>
-            </div>
-          </div>
-        </div>
+        <p>
+          My background spans biotechnology, healthcare data, and pharmaceutical
+          market data. I am driven by data, high-throughput technologies, and
+          mathematical modelling. I have been a Visiting Researcher at the Medical
+          College of Wisconsin, USA, and EMBL-EBI, Cambridge, UK, supported by a
+          2016 Wellcome Trust/DST Travel Fellowship.
+        </p>
+
+        <p>
+          <strong>Research areas:</strong> reproductive health and medicine;
+          microbes, the microbiome, and human health; metabolomics; epigenomics;
+          mental health informatics and wellbeing; sexually transmitted and
+          reproductive tract infections; and vitiligo pathogenesis and therapeutics.
+          As a vitiligo survivor and advocate, I also work to advance research and
+          awareness.
+        </p>
+
+        <p>
+          I use computational and systems biology, data science, mathematical
+          modelling, and AI/ML to analyse multi-omics, molecular, and clinical data.
+          My work combines biological network construction and integration with
+          logical, kinetic, and constraint-based modelling, machine learning, and
+          graph theory.
+        </p>
+
+        <p>
+          <strong>Our lab studies</strong> metabolic, signalling, and gene-regulatory
+          disease networks, disease progression, and molecular mechanisms. We map
+          key biological functions and pathways, analyse network communities and
+          topology, generate data-driven hypotheses, and identify biomarkers and
+          targetable genes, proteins, and metabolites.
+        </p>
+
+        <p>
+          We develop clinical predictive models and personalized,
+          condition-specific genome-scale metabolic models using transcriptomic,
+          proteomic, and metabolomic data. Our work also includes clinical and
+          biological databases, interactive and static web tools, network
+          pharmacology and drug repurposing, molecular modelling, docking, and
+          molecular-dynamics simulations. Our models span complex systems from
+          molecules through tissues, organs, and organisms to populations.
+        </p>
+
+        <p>
+          I have published widely in peer-reviewed, high-impact journals and
+          presented at international conferences, earning recognition in
+          computational biology and translational research.
+        </p>
+
+        <p>
+          At Amity, I chair the Bioinformatics Club and coordinate placements and
+          internships for Bioinformatics, Data Science, and Biosciences. I lead a
+          DBT-funded reproductive-health data analytics lab with Sir Ganga Ram
+          Hospital, New Delhi, and two ICMR-funded collaborative grants with NIMHANS,
+          Bangalore; AIIMS, Delhi; MAMC, New Delhi; and PGIMER, Chandigarh, on
+          epigenomics and AI-integrated mental health.
+        </p>
+
+        <p>
+          I also collaborate on an
+          IBRO–Wellcome-funded NCAMH 2026 International Grant with
+          NIMHANS, Bengaluru, and University College Cork, Ireland, studying gut
+          microbiome–metabolome signatures and predictive modelling in schizophrenia.
+        </p>
+
+        <p>
+          My lab works with clinicians, embryologists and IVF specialists, mental
+          health specialists, geneticists, neurochemists, and other healthcare
+          professionals. I welcome research collaboration, consulting, academic
+          partnerships, and high-throughput project design and execution.
+        </p>
+
+        <p>
+          We aim to deliver meaningful models and analyses that turn biological data
+          into actionable knowledge.
+        </p>
+
+        <p>
+          <strong>Outside work:</strong> I enjoy time with family and friends,
+          networking, reading science fiction and health-technology books, and art
+          and painting.
+        </p>
+      </div>
+    </div>
+  </div>
 
         {/* the below section is for priyanka mam.. containers classname is same cause no change in css is required. */}
       
         <div className="team-leader">
           <h1 className="tl-head-no">02</h1>
-          <h1 className="tl-heading">Co-Founder and Former Principle Investigator
+          <h1 className="tl-heading">Co-Founder & Scientific Advisor | Former Principal Investigator
           </h1>
           <div className="tl-section">
             <div className="founder-image">
@@ -166,12 +150,9 @@ const Teams = () => {
                 alt="Abhishek Sir"
               />
               <h2 className="tl-name">Dr Priyanka Narad</h2>
-              <p className="tl-desg">Co-Founder and Former Principle Investigator
+              <p className="tl-desg">Co-Founder & Scientific Advisor | Former Principal Investigator
               </p>
               <div className="tl-sm-profile">
-                <a href="https://x.com/priyankanarad">
-                  <div className="tl-twitter"></div>
-                </a>
                 <a href="https://www.linkedin.com/in/priyanka-narad-phd-b35320b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                   <div className="tl-linkedin"></div>
                 </a>
