@@ -43,96 +43,99 @@ const Teams = () => {
             </div>
 <div className="tl-about" style={{textAlign: "justify"}}>
         <p>
-          I am an <strong>Associate Professor and Research Scientist in
-          Bioinformatics and Systems Biology</strong> at Amity University, Noida,
-          with over 20 years of experience in higher education, research
-          supervision, and academic leadership across undergraduate, postgraduate,
-          and doctoral levels.
-        </p>
+    Dr. Abhishek Sengupta is an{" "}
+    <strong>
+      Associate Professor and Research Scientist in Bioinformatics and
+      Systems Biology
+    </strong>{" "}
+    at Amity University, Noida, with over 20 years of experience in higher
+    education, research supervision, and academic leadership across
+    undergraduate, postgraduate, and doctoral levels.
+  </p>
 
-        <p>
-          My background spans biotechnology, healthcare data, and pharmaceutical
-          market data. I am driven by data, high-throughput technologies, and
-          mathematical modelling. I have been a Visiting Researcher at the Medical
-          College of Wisconsin, USA, and EMBL-EBI, Cambridge, UK, supported by a
-          2016 Wellcome Trust/DST Travel Fellowship.
-        </p>
+  <p>
+    His background spans biotechnology, healthcare data, and pharmaceutical
+    market data. He is driven by data, high-throughput technologies, and
+    mathematical modelling. He has been a Visiting Researcher at the Medical
+    College of Wisconsin, USA, and EMBL-EBI, Cambridge, UK, supported by a
+    2016 Wellcome Trust/DST Travel Fellowship.
+  </p>
 
-        <p>
-          <strong>Research areas:</strong> reproductive health and medicine;
-          microbes, the microbiome, and human health; metabolomics; epigenomics;
-          mental health informatics and wellbeing; sexually transmitted and
-          reproductive tract infections; and vitiligo pathogenesis and therapeutics.
-          As a vitiligo survivor and advocate, I also work to advance research and
-          awareness.
-        </p>
+  <p>
+    <strong>Research areas:</strong> reproductive health and medicine;
+    microbes, the microbiome, and human health; metabolomics; epigenomics;
+    mental health informatics and wellbeing; sexually transmitted and
+    reproductive tract infections; and vitiligo pathogenesis and therapeutics.
+    As a vitiligo survivor and advocate, he also works to advance research and
+    awareness.
+  </p>
 
-        <p>
-          I use computational and systems biology, data science, mathematical
-          modelling, and AI/ML to analyse multi-omics, molecular, and clinical data.
-          My work combines biological network construction and integration with
-          logical, kinetic, and constraint-based modelling, machine learning, and
-          graph theory.
-        </p>
+  <p>
+    He uses computational and systems biology, data science, mathematical
+    modelling, and AI/ML to analyse multi-omics, molecular, and clinical data.
+    His work combines biological network construction and integration with
+    logical, kinetic, and constraint-based modelling, machine learning, and
+    graph theory.
+  </p>
 
-        <p>
-          <strong>Our lab studies</strong> metabolic, signalling, and gene-regulatory
-          disease networks, disease progression, and molecular mechanisms. We map
-          key biological functions and pathways, analyse network communities and
-          topology, generate data-driven hypotheses, and identify biomarkers and
-          targetable genes, proteins, and metabolites.
-        </p>
+  <p>
+    <strong>His lab studies</strong> metabolic, signalling, and gene-regulatory
+    disease networks, disease progression, and molecular mechanisms. The lab
+    maps key biological functions and pathways, analyses network communities
+    and topology, generates data-driven hypotheses, and identifies biomarkers
+    and targetable genes, proteins, and metabolites.
+  </p>
 
-        <p>
-          We develop clinical predictive models and personalized,
-          condition-specific genome-scale metabolic models using transcriptomic,
-          proteomic, and metabolomic data. Our work also includes clinical and
-          biological databases, interactive and static web tools, network
-          pharmacology and drug repurposing, molecular modelling, docking, and
-          molecular-dynamics simulations. Our models span complex systems from
-          molecules through tissues, organs, and organisms to populations.
-        </p>
+  <p>
+    The lab develops clinical predictive models and personalised,
+    condition-specific genome-scale metabolic models using transcriptomic,
+    proteomic, and metabolomic data. Its work also includes clinical and
+    biological databases, interactive and static web tools, network
+    pharmacology and drug repurposing, molecular modelling, docking, and
+    molecular-dynamics simulations. The models span complex systems from
+    molecules through tissues, organs, and organisms to populations.
+  </p>
 
-        <p>
-          I have published widely in peer-reviewed, high-impact journals and
-          presented at international conferences, earning recognition in
-          computational biology and translational research.
-        </p>
+  <p>
+    He has published widely in peer-reviewed, high-impact journals and
+    presented at international conferences, earning recognition in
+    computational biology and translational research.
+  </p>
 
-        <p>
-          At Amity, I chair the Bioinformatics Club and coordinate placements and
-          internships for Bioinformatics, Data Science, and Biosciences. I lead a
-          DBT-funded reproductive-health data analytics lab with Sir Ganga Ram
-          Hospital, New Delhi, and two ICMR-funded collaborative grants with NIMHANS,
-          Bangalore; AIIMS, Delhi; MAMC, New Delhi; and PGIMER, Chandigarh, on
-          epigenomics and AI-integrated mental health.
-        </p>
+  <p>
+    At Amity, he chairs the Bioinformatics Club and coordinates placements and
+    internships for Bioinformatics, Data Science, and Biosciences. He leads a
+    DBT-funded reproductive-health data analytics lab with Sir Ganga Ram
+    Hospital, New Delhi, and two ICMR-funded collaborative grants with NIMHANS,
+    Bangalore; AIIMS, Delhi; MAMC, New Delhi; and PGIMER, Chandigarh, on
+    epigenomics and AI-integrated mental health.
+  </p>
 
-        <p>
-          I also collaborate on an
-          IBRO–Wellcome-funded NCAMH 2026 International Grant with
-          NIMHANS, Bengaluru, and University College Cork, Ireland, studying gut
-          microbiome–metabolome signatures and predictive modelling in schizophrenia.
-        </p>
+  <p>
+    He also collaborates on an IBRO–Wellcome-funded NCAMH 2026 International
+    Grant with NIMHANS, Bengaluru, and University College Cork, Ireland,
+    studying gut microbiome–metabolome signatures and predictive modelling in
+    schizophrenia.
+  </p>
 
-        <p>
-          My lab works with clinicians, embryologists and IVF specialists, mental
-          health specialists, geneticists, neurochemists, and other healthcare
-          professionals. I welcome research collaboration, consulting, academic
-          partnerships, and high-throughput project design and execution.
-        </p>
+  <p>
+    His lab works with clinicians, embryologists and IVF specialists, mental
+    health specialists, geneticists, neurochemists, and other healthcare
+    professionals. He welcomes research collaboration, consulting, academic
+    partnerships, and high-throughput project design and execution.
+  </p>
 
-        <p>
-          We aim to deliver meaningful models and analyses that turn biological data
-          into actionable knowledge.
-        </p>
+  <p>
+    The lab aims to deliver meaningful models and analyses that turn biological
+    data into actionable knowledge.
+  </p>
 
-        <p>
-          <strong>Outside work:</strong> I enjoy time with family and friends,
-          networking, reading science fiction and health-technology books, and art
-          and painting.
-        </p>
-      </div>
+  <p>
+    <strong>Outside work:</strong> He enjoys time with family and friends,
+    networking, reading science-fiction and health-technology books, and art
+    and painting.
+  </p>
+</div>
     </div>
   </div>
 
@@ -140,7 +143,7 @@ const Teams = () => {
       
         <div className="team-leader">
           <h1 className="tl-head-no">02</h1>
-          <h1 className="tl-heading">Co-Founder & Scientific Advisor | Former Principal Investigator
+          <h1 className="tl-heading">Founding Member
           </h1>
           <div className="tl-section">
             <div className="founder-image">
@@ -150,7 +153,7 @@ const Teams = () => {
                 alt="Abhishek Sir"
               />
               <h2 className="tl-name">Dr Priyanka Narad</h2>
-              <p className="tl-desg">Co-Founder & Scientific Advisor | Former Principal Investigator
+              <p className="tl-desg">Founding Member
               </p>
               <div className="tl-sm-profile">
                 <a href="https://www.linkedin.com/in/priyanka-narad-phd-b35320b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -158,38 +161,102 @@ const Teams = () => {
                 </a>
               </div>
             </div>
-            <div className="tl-about">
-              <p style ={{ textAlign:"justify" } }>
-              I am an experienced bioinformatics professional with PhD in Biotechnology and a specialization in Network Modelling and Analysis. 
-              With proficiency in bioinformatics tools, techniques, and R & Python programming, I have gained a diversified portfolio as an Assistant Professor, Academic Administrator,
-               and founding member of SBDA research lab
-               in my previous professional experience at Amity University Uttar Pradesh.
-              </p>
-              
-              <p style={{ textAlign: "justify", marginTop: "1.5rem" }}>
-              Currently, I am working as a scientist and researcher in the Bioinformatics Division,
-               Indian Council of Medical Research (ICMR), Department of Health Research (DHR), 
-               Ministry of Health & Family Welfare (MoH&FW), New Delhi. 
-               Here, I am handling the research projects undertaken by the division 
-               and building policies and guidelines in bioinformatics and artificial intelligence. 
-              </p>
-              <p style={{ textAlign: "justify", marginTop: "1.5rem" }}>
-              I have more than 50 published research and review articles in high-impact factor
-               peer-reviewed national/international journals like Scientific Reports, Journal
-                of Biomolecular Structure and Dynamics, and Human Gene to name a few. I have 
-                3 copyrights registered and 1 technology transferred to industry.
-              </p>
-              <p style={{ textAlign: "justify", marginTop: "1.5rem" }}>
-              As an individual, I am upbeat, enthusiastic, and have a problem-solving attitude. 
-              My exceptional communication skills, commitment, and ownership of assigned work 
-              allow me to work efficiently in a fast-paced environment.
-              </p>
-              <p style={{ textAlign: "justify", marginTop: "1.5rem" }}>
-              Feel free to connect with me to learn more about my work interests and mutual collaborations.
-              </p>
+            <div className="tl-about" style={{textAlign: "justify"}}>
+  <p>
+    Dr. Priyanka Narad is a{" "}
+    <strong>
+      Scientist C at the Indian Council of Medical Research (ICMR)
+      Headquarters, New Delhi
+    </strong>
+    , in the Division of Development Research. Her professional experience
+    spans bioinformatics research, higher education, academic administration,
+    research project management, and healthcare applications of artificial
+    intelligence. Her areas of work include bioinformatics, genomics,
+    transcriptomics, network biology, and AI for healthcare data.
+  </p>
 
-              
-            </div>
+  <p>
+    She holds a PhD in Bioinformatics from Amity University and a master’s
+    degree in Bioinformatics from Birla Institute of Technology and Science,
+    Pilani. With a specialisation in network modelling and analysis, she
+    combines biological knowledge with computational methods, bioinformatics
+    tools, and programming in R and Python to investigate complex biological
+    questions.
+  </p>
+
+  <p>
+    Before joining ICMR in October 2023, she spent more than fourteen years at
+    Amity University Uttar Pradesh, Noida, as an Assistant Professor and
+    academic administrator. A founding member of the Systems Biology and Data
+    Analytics (SBDA) Research Laboratory, she contributed to its research
+    activities alongside teaching, student mentoring, curriculum development,
+    programme leadership, academic quality assurance, and alumni engagement.
+  </p>
+
+  <p>
+    <strong>
+      Her research brings together systems biology, biological network
+      analysis, and machine learning.
+    </strong>{" "}
+    She has co-authored research on modelling human pluripotency, integrating
+    gene-regulatory networks with RNA-sequencing data to examine how changes in
+    key genes influence stem-cell states and differentiation. Her work also
+    includes Net2Align, an algorithm developed for the pairwise global
+    alignment of biological networks.
+  </p>
+
+  <p>
+    <strong>Reproductive health and AI-assisted prediction</strong> form
+    another substantial part of her research portfolio. At Amity, she served
+    as an investigator on a DBT-funded project exploring artificial
+    intelligence for reproductive medicine. Her collaborative publications
+    include Deep Inception–ResNet, a deep-learning approach for predicting
+    cumulative pregnancy outcomes in IVF, and a subsequent study applying
+    Bayesian-optimised ensemble learning to IVF outcome prediction in an
+    Indian patient population.
+  </p>
+
+  <p>
+    She also contributed to <strong>FertilitY Predictor</strong>, a
+    machine-learning-based web tool developed to estimate assisted reproduction
+    outcomes in men with Y-chromosome microdeletions. The published work
+    addresses sperm retrieval, fertilisation, clinical pregnancy, and live-birth
+    probabilities. The associated technology was transferred to industry for
+    commercialisation, extending this collaborative research into software
+    development and technology translation.
+  </p>
+
+  <p>
+    Her contributions to computational research resources extend to vitiligo.
+    She is a co-author and corresponding author of the{" "}
+    <strong>Vitiligo Information Resource database v3</strong>, which
+    integrates transcriptomic datasets, disease-associated genes, protein
+    interaction networks, and compound information. The platform supports
+    pathway analysis, biomarker exploration, and the generation of hypotheses
+    for further therapeutic research.
+  </p>
+
+  <p>
+    At ICMR, her responsibilities include research project management and
+    contributions to policies and guidelines concerning bioinformatics,
+    genomics, and artificial intelligence. Her work connects computational
+    research with strategic planning and the responsible application of
+    emerging technologies in health research.
+  </p>
+
+  <p>
+    Her academic profile includes more than fifty research and review
+    publications, three registered copyrights, and one technology transfer to
+    industry. She also contributes to scientific training and knowledge
+    exchange.
+  </p>
+
+  <p>
+    She welcomes research collaborations and academic partnerships in
+    bioinformatics, systems biology, genomics, reproductive health, and
+    artificial intelligence for healthcare.
+  </p>
+</div>
           </div>
         </div>
         <div className="team-members">
